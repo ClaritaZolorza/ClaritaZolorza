@@ -20,7 +20,7 @@ print("¡Espero que disfrutes conociéndome!")
 # Contáctame por:
 📫 zolorzaclarita@gmail.com
 
-<a href="https://www.linkedin.com/in/clarita-zolorza-choque-926030317/" target="blank">
+<a href="https://www.linkedin.com/in/clarita-zolorza-choque-926030317/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/clarita-zolorza-choque-926030317/" height="30" width="40">
 </a> 
 
